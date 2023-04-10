@@ -1,5 +1,6 @@
-### Hi there 👋!
-Actually, I am using this languages and tools:<br>
+### Hello there! <img height='40' width='40' src="https://static.wikia.nocookie.net/disneyemojiblitz/images/9/92/EmojiBlitzObi-WanKenobi1.png/revision/latest?cb=20220726120305" title="Kenobi" alt="Kenobi"/><img height='40' width='40' src="https://static.wikia.nocookie.net/disneyemojiblitz/images/3/31/EmojiBlitzGeneralGrievous1.png/revision/latest/scale-to-width-down/350?cb=20220315123833" title="Kenobi" alt="Kenobi"/>
+My name is Rafael Albuquerque, I'm a student of Science and Technology at Federal University of São Paulo (UNIFESP). I want to focus my carrer at software engineering with emphasis at game development and web development.<br><br>
+Actually, I am using this languages and tools for working on web and software development:<br>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java"/>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="SpringBoot" alt="SpringBoot"/>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C"/>
@@ -17,6 +18,10 @@ Actually, I am using this languages and tools:<br>
 <img height='40' width='40' src="svg_logos/microsoft-sql-server.svg" title="SQL Server" alt="SQL Server"/>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL"/>
 
+I'm studying this languages and tools for game development:<br>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#"/>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++"/>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" alt="Unity"/>
 
 
 
