@@ -3,6 +3,7 @@ My name is Rafael Albuquerque, I'm a student of Science and Technology at Federa
 Actually, I am using this languages and tools for working on web and software development:<br>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java"/>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="SpringBoot" alt="SpringBoot"/>
+<img height='40' width='40' src="svg_logos/thymeleaf-icon.svg" title="Thymeleaf" alt="Thymeleaf"/>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML"/>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS"/>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop"/>
