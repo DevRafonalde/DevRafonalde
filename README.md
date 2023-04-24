@@ -24,6 +24,35 @@ I'm studying this languages and tools for game development:<br>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C"/>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#"/>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" alt="Unity"/>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++"/><br><br>
+
+
+### Olá!
+Meu nome é Rafael Albuquerque, sou estudante de Ciência e Tecnologia na Universidade Federal de São Paulo (UNIFESP). Quero concentrar minha carreira na engenharia de software com ênfase em desenvolvimento de jogos e desenvolvimento web.<br><br>
+Atualmente, estou usando essas linguagens e ferramentas para trabalhar no desenvolvimento de software e web:<br>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java 8/17+" alt="Java 8/17+"/>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="SpringBoot 3.0+" alt="SpringBoot 3.0+"/>
+<img height='40' width='40' src="svg_logos/thymeleaf-icon.svg" title="Thymeleaf 3.1" alt="Thymeleaf 3.1"/>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML 5" alt="HTML 5"/>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS 3" alt="CSS 3"/>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop"/>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" title="Adobe Illustrator" alt="Adobe Illustrator"/>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript"/>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" title="JQuery" alt="JQuery"/>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap 4/5" alt="Bootstrap 4/5"/>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP 7+" alt="PHP 7+"/>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress"/>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" title="Electron.js" alt="Electron.js"/>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python 3" alt="Python 3"/>
+<img style='background-color:white' height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask"/>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker"/>
+<img height='40' width='40' src="svg_logos/microsoft-sql-server.svg" title="SQL Server" alt="SQL Server"/>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL"/>
+
+Estou estudando essas linguagens e ferramentas para desenvolvimento de jogos:<br>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C"/>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#"/>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" alt="Unity"/>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++"/>
 
 
