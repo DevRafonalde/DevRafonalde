@@ -1,20 +1,20 @@
 ### Hello there! <img height='40' width='40' src="https://static.wikia.nocookie.net/disneyemojiblitz/images/9/92/EmojiBlitzObi-WanKenobi1.png/revision/latest?cb=20220726120305" title="Kenobi" alt="Kenobi"/><img height='40' width='40' src="https://static.wikia.nocookie.net/disneyemojiblitz/images/3/31/EmojiBlitzGeneralGrievous1.png/revision/latest/scale-to-width-down/350?cb=20220315123833" title="Kenobi" alt="Kenobi"/>
 My name is Rafael Albuquerque, I'm a student of Science and Technology at Federal University of São Paulo (UNIFESP). I want to focus my carrer at software engineering with emphasis at game development and web development.<br><br>
 Actually, I am using this languages and tools for working on web and software development:<br>
-<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java"/>
-<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="SpringBoot" alt="SpringBoot"/>
-<img height='40' width='40' src="svg_logos/thymeleaf-icon.svg" title="Thymeleaf" alt="Thymeleaf"/>
-<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML"/>
-<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS"/>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java 8/17+" alt="Java 8/17+"/>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="SpringBoot 3.0+" alt="SpringBoot 3.0+"/>
+<img height='40' width='40' src="svg_logos/thymeleaf-icon.svg" title="Thymeleaf 3.1" alt="Thymeleaf 3.1"/>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML 5" alt="HTML 5"/>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS 3" alt="CSS 3"/>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop"/>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" title="Adobe Illustrator" alt="Adobe Illustrator"/>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript"/>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" title="JQuery" alt="JQuery"/>
-<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap 5" alt="Bootstrap 5"/>
-<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP"/>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap 4/5" alt="Bootstrap 4/5"/>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP 7+" alt="PHP 7+"/>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress"/>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" title="Electron.js" alt="Electron.js"/>
-<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python"/>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python 3" alt="Python 3"/>
 <img style='background-color:white' height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask"/>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker"/>
 <img height='40' width='40' src="svg_logos/microsoft-sql-server.svg" title="SQL Server" alt="SQL Server"/>
