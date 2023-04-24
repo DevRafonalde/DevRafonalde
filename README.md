@@ -1,4 +1,4 @@
-### Olá!
+### Olá! <img height='40' width='40' src="https://static.wikia.nocookie.net/disneyemojiblitz/images/9/92/EmojiBlitzObi-WanKenobi1.png/revision/latest?cb=20220726120305" title="Obi-Wan Kenobi" alt="Obi-Wan Kenobi"/><img height='40' width='40' src="https://static.wikia.nocookie.net/disneyemojiblitz/images/3/31/EmojiBlitzGeneralGrievous1.png/revision/latest/scale-to-width-down/350?cb=20220315123833" title="General Grievous" alt="General Grievous"/>
 Meu nome é Rafael Albuquerque, sou estudante de Ciência e Tecnologia na Universidade Federal de São Paulo (UNIFESP). Quero concentrar minha carreira na engenharia de software com ênfase em desenvolvimento de jogos e desenvolvimento web.<br><br>
 Atualmente, estou usando essas linguagens e ferramentas para trabalhar no desenvolvimento de software e web:<br>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java 8/17+" alt="Java 8/17+"/>
