@@ -59,8 +59,8 @@ I'm studying this languages and tools for game development:<br>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++"/>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevRafonalde&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRafonalde&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DevRafonalde&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevRafonalde&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
  
