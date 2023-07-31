@@ -1,4 +1,5 @@
-### Olá! <img height='40' width='40' src="https://static.wikia.nocookie.net/disneyemojiblitz/images/9/92/EmojiBlitzObi-WanKenobi1.png/revision/latest?cb=20220726120305" title="Obi-Wan Kenobi" alt="Obi-Wan Kenobi"/><img height='40' width='40' src="https://static.wikia.nocookie.net/disneyemojiblitz/images/3/31/EmojiBlitzGeneralGrievous1.png/revision/latest/scale-to-width-down/350?cb=20220315123833" title="General Grievous" alt="General Grievous"/>
+# Olá! <img height='40' width='40' src="https://static.wikia.nocookie.net/disneyemojiblitz/images/9/92/EmojiBlitzObi-WanKenobi1.png/revision/latest?cb=20220726120305" title="Obi-Wan Kenobi" alt="Obi-Wan Kenobi"/><img height='40' width='40' src="https://static.wikia.nocookie.net/disneyemojiblitz/images/3/31/EmojiBlitzGeneralGrievous1.png/revision/latest/scale-to-width-down/350?cb=20220315123833" title="General Grievous" alt="General Grievous"/>
+
 Meu nome é Rafael Albuquerque, sou estudante de Ciência e Tecnologia na Universidade Federal de São Paulo (UNIFESP). Quero concentrar minha carreira na engenharia de software com ênfase em desenvolvimento de jogos e desenvolvimento web.<br><br>
 Atualmente, estou usando essas linguagens e ferramentas para trabalhar no desenvolvimento de software e web:<br>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java 8/17+" alt="Java 8/17+"/>
@@ -21,6 +22,7 @@ Atualmente, estou usando essas linguagens e ferramentas para trabalhar no desenv
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker"/>
 <img height='40' width='40' src="svg_logos/microsoft-sql-server.svg" title="SQL Server" alt="SQL Server"/>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL"/>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".NET Core"/>
 
 Estou estudando essas linguagens e ferramentas para desenvolvimento de jogos:<br>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C"/>
@@ -28,7 +30,8 @@ Estou estudando essas linguagens e ferramentas para desenvolvimento de jogos:<br
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" alt="Unity"/>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++"/><br><br>
 
-### Hello there! <img height='40' width='40' src="https://static.wikia.nocookie.net/disneyemojiblitz/images/9/92/EmojiBlitzObi-WanKenobi1.png/revision/latest?cb=20220726120305" title="Obi-Wan Kenobi" alt="Obi-Wan Kenobi"/><img height='40' width='40' src="https://static.wikia.nocookie.net/disneyemojiblitz/images/3/31/EmojiBlitzGeneralGrievous1.png/revision/latest/scale-to-width-down/350?cb=20220315123833" title="General Grievous" alt="General Grievous"/>
+# Hello there! <img height='40' width='40' src="https://static.wikia.nocookie.net/disneyemojiblitz/images/9/92/EmojiBlitzObi-WanKenobi1.png/revision/latest?cb=20220726120305" title="Obi-Wan Kenobi" alt="Obi-Wan Kenobi"/><img height='40' width='40' src="https://static.wikia.nocookie.net/disneyemojiblitz/images/3/31/EmojiBlitzGeneralGrievous1.png/revision/latest/scale-to-width-down/350?cb=20220315123833" title="General Grievous" alt="General Grievous"/>
+
 My name is Rafael Albuquerque, I'm a student of Science and Technology at Federal University of São Paulo (UNIFESP). I want to focus my carrer at software engineering with emphasis at game development and web development.<br><br>
 Actually, I am using this languages and tools for working on web and software development:<br>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java 8/17+" alt="Java 8/17+"/>
@@ -51,6 +54,7 @@ Actually, I am using this languages and tools for working on web and software de
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker"/>
 <img height='40' width='40' src="svg_logos/microsoft-sql-server.svg" title="SQL Server" alt="SQL Server"/>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL"/>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".NET Core"/>
 
 I'm studying this languages and tools for game development:<br>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C"/>
@@ -63,12 +67,11 @@ I'm studying this languages and tools for game development:<br>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevRafonalde&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
- 
 ##
   
 <div>
   <a href = "mailto:rafael.p.albuquerque@gmal.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/devrafonalde/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/devrafonalde/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <!--
