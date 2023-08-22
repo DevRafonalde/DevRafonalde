@@ -13,6 +13,7 @@ Atualmente, estou usando essas linguagens e ferramentas para trabalhar no desenv
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" title="JQuery" alt="JQuery"/>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" title="Electron.js" alt="Electron.js"/>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js"/>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" title="Nest.js" alt="Nest.js"/>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" alt="React.js"/>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express"/>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap 4/5" alt="Bootstrap 4/5"/>
@@ -46,6 +47,7 @@ Actually, I am using this languages and tools for working on web and software de
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" title="JQuery" alt="JQuery"/>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" title="Electron.js" alt="Electron.js"/>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js"/>
+<img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" title="Nest.js" alt="Nest.js"/>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" alt="React.js"/>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express"/>
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap 4/5" alt="Bootstrap 4/5"/>
